@@ -1,5 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+## I'm Aga, an aspiring web developer based in Warsaw, Poland
 
+Currently focusing on:
+* C# and ASP.NET
+* ReactJS and Gatsby
+* databases
+
+**Email**: aga.kesik.dev@gmail.com
 <!--
 **agakesik/agakesik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
