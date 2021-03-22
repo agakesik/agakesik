@@ -7,43 +7,18 @@ Currently focusing on:
 * databases
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
-
 **🐱 My Github Data** 
 
 > 🏆 112 Contributions in the Year 2021
  > 
 > 📦 58.9 kB Used in Github's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 11 Public Repositories 
  > 
-> 🔑 8 Private Repositories  
+> 🔑 9 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    127 commits    █████████░░░░░░░░░░░░░░░░   35.98% 
-🌆 Daytime    221 commits    ███████████████░░░░░░░░░░   62.61% 
-🌃 Evening    5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       60 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.0% 
-Tuesday      57 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.15% 
-Wednesday    73 commits     █████░░░░░░░░░░░░░░░░░░░░   20.68% 
-Thursday     94 commits     ██████░░░░░░░░░░░░░░░░░░░   26.63% 
-Friday       69 commits     █████░░░░░░░░░░░░░░░░░░░░   19.55% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -66,9 +41,6 @@ aimachine-backend-python 2 hrs 1 min         █░░░░░░░░░░�
 sockeio-server           36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.12% 
 aimachine                29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67%
 
-💻 Operating System: 
-Windows                  29 hrs 1 min        █████████████████████████   100.0%
-
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,10 +54,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/agakesik/agakesik/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
