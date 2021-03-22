@@ -6,6 +6,9 @@ Currently focusing on:
 * ReactJS and Gatsby
 * databases
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 **Email**: aga.kesik.dev@gmail.com
 <!--
 **agakesik/agakesik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
