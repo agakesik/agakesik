@@ -1,10 +1,14 @@
 # Hi there 👋
 ## I'm Aga, an aspiring web developer based in Warsaw, Poland
 
-Currently focusing on:
-* C# and ASP.NET
-* ReactJS and Gatsby
-* databases
+### Currently focusing on:
+#### -> C# and ASP.NET <-
+
+### Current projects:
+-> **[Ingredients Checker](https://github.com/agakesik/ingredients-checker)**; main technologies: ASP.NET
+ 
+-> **[AIMachine](https://github.com/aimachine-project)**; main teschnologies: ReacjJs
+
 
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
@@ -58,7 +62,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-**Email**: aga.kesik.dev@gmail.com
 <!--
 **agakesik/agakesik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
