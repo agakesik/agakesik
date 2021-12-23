@@ -1,13 +1,14 @@
 # Hi there 👋
 ## I'm Aga, an aspiring web developer based in Warsaw, Poland
 
-<!--
+
 ### Biggest focus currently:
 #### -> C# and ASP.NET <-
--->
+
 
 ### Current projects:
 -> **[Ingredients Checker](https://github.com/agakesik/ingredients-checker)**; main technologies: ASP.NET (C#), Azure, GithubActions
+
 -> **[AIMachine](https://github.com/aimachine-project)**; main teschnologies: ReacjJS (JavaScript), docker, AWS, CircleCI
 
 ### languages and technologies:
