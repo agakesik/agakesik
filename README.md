@@ -1,5 +1,5 @@
 # Hi there 👋
-## I'm Aga, an aspiring web developer based in Warsaw, Poland
+## I'm Aga, a web developer based in Warsaw, Poland
 
 
 ### Biggest focus currently:
